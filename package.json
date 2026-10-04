@@ -1,0 +1,21 @@
+{
+  "name": "piece-it-together",
+  "version": "1.0.0",
+  "description": "A drag-and-drop photo jigsaw puzzle game — single static HTML/CSS/JS file, no build step.",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "keywords": [
+    "game",
+    "puzzle",
+    "jigsaw",
+    "html5",
+    "vanilla-js"
+  ],
+  "license": "MIT"
+}

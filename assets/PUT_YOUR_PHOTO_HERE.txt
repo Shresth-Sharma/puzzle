@@ -1,0 +1,5 @@
+Drop your image in this folder and name it "photo.jpg"
+(or change IMAGE_SRC in index.html to match whatever filename you use).
+
+Supported formats: .jpg, .png, .webp, .gif — anything a browser can
+display in an <img> tag.
